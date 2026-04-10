@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Sumaiya !!  
+# 👋 Hi, I'm Sumaiya !!
 
-🎓 second-year BEng (Hons) Software Engineering Undergraduate at IIT (University of Westminster affiliated)  
-💻 Full-Stack Developer | QA & DevOps Enthusiast | AI & ML Explorer
+🎓 Second-year BEng (Hons) Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)  
+💻 Software Developer | QA & DevOps Enthusiast | Exploring AI & Machine Learning  
 🌍 Sri Lanka  
+
+Passionate about building reliable software, creating meaningful user experiences, and continuously learning new technologies across development, testing, and system design.
 
 ## 🛠 Tech Stack  
 
@@ -41,37 +43,37 @@
 ## 📌 Projects  
 
 ### 🔐 Selenium Login Automation
-Automated login test suite for SauceDemo using Selenium & Pytest. Demonstrates test case creation, validation, reporting, and automation best practices.
+Automated login testing project that verifies valid and invalid authentication scenarios for a web application.
 
 ### 🍳 Cookora  
-A smart recipe and meal planning web application designed to enhance cooking experiences through structured meal organization and user-focused features.
+A mobile application that suggests recipes based on ingredients entered by the user.
 
 ### 🗺 ZenRoute  
-A route management and optimization system built to improve travel efficiency through backend-driven logic and data handling.
+A route management and optimization system designed to improve travel efficiency through intelligent backend logic.
 
 ### 🖥 DevLens
-A project designed to analyze and visualize GitHub profiles and repositories. Demonstrates skills in data handling, automated reporting, and quality analysis.
+A project that analyzes and visualizes GitHub profiles and repositories to provide insights into development activity.
 
 ### 📚 GradeMate UK
-A student-focused platform for academic management and resource sharing, highlighting full-stack development and system integration skills.
+A student-focused platform for academic management and resource sharing.
 
 ### 🔥 EmberEcho  
-A concept-driven digital platform focused on delivering structured user interaction through clean and modular system design.
+A concept-driven digital platform focused on delivering structured user interaction through modular system design.
 
 ### 🧸 Little Loop  
 A simplicity-focused application designed to provide intuitive workflows and scalable feature structure.
 
 ### ✈ Plane Seat Booking System  
-A Java-based console application simulating an airline seat reservation system using object-oriented principles.
+A Java console application simulating an airline seat reservation system.
 
 ### 🌐 AI Facts Hub  
-A responsive web application that displays dynamic AI-related facts and trends using HTML, CSS, and JavaScript.
+A web application that displays dynamic AI-related facts and trends.
 
 ### 📊 Traffic Data Analyzer  
-A Python-based data analysis project that extracts meaningful insights from real-world traffic datasets.
+A Python project that extracts insights from traffic datasets.
 
 ### 🎮 Don Game  
-A logic-based Python game developed using structured programming and control flow concepts.
+A logic-based Python game developed using structured programming concepts.
 
 ---
 
