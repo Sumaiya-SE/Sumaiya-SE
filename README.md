@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Sumaiya !!
 
-🎓 Second-year BEng (Hons) Software Engineering Undergraduate at IIT (affiliated with the University of Westminster)  
-💻 Software Developer | QA & DevOps Enthusiast | Exploring AI & Machine Learning  
-🌍 Sri Lanka  
+🎓 BEng (Hons) Software Engineering Graduate (Second Year Completed) at IIT (affiliated with the University of Westminster)
+💼 Software Engineer Intern at Semicolon One Technologies (Canada)
+💻 Software Engineer | Full-Stack Developer | QA & DevOps Enthusiast | Exploring AI & Scalable Systems
+🌍 Sri Lanka
 
 Passionate about building reliable software, creating meaningful user experiences, and continuously learning new technologies across development, testing, and system design.
 
@@ -33,10 +34,13 @@ Passionate about building reliable software, creating meaningful user experience
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=selenium" />
   <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://skillicons.dev/icons?i=apollo" />
+  <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-**Development Practices:** Agile Methodologies | SDLC | OOP | RESTful APIs | CI/CD | Automation Testing
+**Development Practices:** Agile Methodologies | SDLC | OOP | REST APIs | CI/CD | Automation Testing
 
 ---
 
@@ -77,17 +81,10 @@ A logic-based Python game developed using structured programming concepts.
 
 ---
 
-## 🤝 Leadership & Involvement  
+## 🤝 Leadership 
 
-### 🎓 Academic Leadership  
 - **SE Chief Batch Representative – Level 05**  
-- **Batch Representative – Level 04**  
-
-### 🌍 Organizational & Event Leadership  
 - **Secretary – Hult Prize at IIT**  
-- **Industry Outreach Member – IEEE IIT**  
-- **Delegate Handling Committee – Sync Up**  
-- **Program & Logistics Committee – Sherlock 2.0**  
 
 ---
 
