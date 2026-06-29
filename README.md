@@ -2,10 +2,11 @@
 
 🎓 BEng (Hons) Software Engineering Graduate (Second Year Completed) at IIT (affiliated with the University of Westminster)
 💼 Software Engineer Intern at Semicolon One Technologies (Canada)
+
 💻 Software Engineer | Full-Stack Developer | QA & DevOps Enthusiast | Exploring AI & Scalable Systems
+
 🌍 Sri Lanka
 
-Passionate about building reliable software, creating meaningful user experiences, and continuously learning new technologies across development, testing, and system design.
 
 ## 🛠 Tech Stack  
 
@@ -19,6 +20,8 @@ Passionate about building reliable software, creating meaningful user experience
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=next" />
+  <img src="https://skillicons.dev/icons?i=node" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
@@ -41,50 +44,6 @@ Passionate about building reliable software, creating meaningful user experience
 </p>
 
 **Development Practices:** Agile Methodologies | SDLC | OOP | REST APIs | CI/CD | Automation Testing
-
----
-
-## 📌 Projects  
-
-### 🔐 Selenium Login Automation
-Automated login testing project that verifies valid and invalid authentication scenarios for a web application.
-
-### 🍳 Cookora  
-A mobile application that suggests recipes based on ingredients entered by the user.
-
-### 🗺 ZenRoute  
-A route management and optimization system designed to improve travel efficiency through intelligent backend logic.
-
-### 🖥 DevLens
-A project that analyzes and visualizes GitHub profiles and repositories to provide insights into development activity.
-
-### 📚 GradeMate UK
-A student-focused platform for academic management and resource sharing.
-
-### 🔥 EmberEcho  
-A concept-driven digital platform focused on delivering structured user interaction through modular system design.
-
-### 🧸 Little Loop  
-A simplicity-focused application designed to provide intuitive workflows and scalable feature structure.
-
-### ✈ Plane Seat Booking System  
-A Java console application simulating an airline seat reservation system.
-
-### 🌐 AI Facts Hub  
-A web application that displays dynamic AI-related facts and trends.
-
-### 📊 Traffic Data Analyzer  
-A Python project that extracts insights from traffic datasets.
-
-### 🎮 Don Game  
-A logic-based Python game developed using structured programming concepts.
-
----
-
-## 🤝 Leadership 
-
-- **SE Chief Batch Representative – Level 05**  
-- **Secretary – Hult Prize at IIT**  
 
 ---
 
